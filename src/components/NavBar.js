@@ -26,7 +26,7 @@ const NavBar = () => {
     },
   ];
   return (
-    <div className="flex justify-between items-center w-full px-4 py-2 text-white bg-black fixed h-20">
+    <div className="flex justify-between items-center w-full px-4 text-white bg-black fixed h-20">
       <div>
         <h1 className="text-5xl font-signature ml-2 hover:scale-105 duration-300">
           <Link to="home" smooth duration={500}>
