@@ -13,17 +13,19 @@ const About = () => {
           </h1>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet. Non corporis doloremque in modi
-          reprehenderit sit impedit minus et eveniet possimus ut corporis fuga
-          qui sint placeat ut reprehenderit earum. Non velit cumque sit illo
-          voluptatem est aliquam alias eos repudiandae dolores.
+          Achievement-oriented, techno-savvy professional offering nearly 2
+          years of rich and extensive experience in analysis, design,
+          development, customization and implementation of software application.
+          In-depth knowledge of Software Development Lifecycle (SDLC) right from
+          requirement analysis, documentation (functional specifications,
+          technical design), coding and testing (preparation of test cases with
+          implementation) for maintaining proposed applications
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet. Non corporis doloremque in modi
-          reprehenderit sit impedit minus et eveniet possimus ut corporis fuga
-          qui sint placeat ut reprehenderit earum. Non velit cumque sit illo
-          voluptatem est aliquam alias eos repudiandae dolores.
+          Skilled in analyzing information system needs, evaluating end-user
+          requirements, custom designing solutions, troubleshooting for complex
+          information systems management
         </p>
       </div>
     </div>
