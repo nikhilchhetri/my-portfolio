@@ -13,19 +13,7 @@ const About = () => {
           </h1>
         </div>
         <p className="text-xl mt-20">
-          Achievement-oriented, techno-savvy professional offering nearly 2
-          years of rich and extensive experience in analysis, design,
-          development, customization and implementation of software application.
-          In-depth knowledge of Software Development Lifecycle (SDLC) right from
-          requirement analysis, documentation (functional specifications,
-          technical design), coding and testing (preparation of test cases with
-          implementation) for maintaining proposed applications
-        </p>
-        <br />
-        <p className="text-xl">
-          Skilled in analyzing information system needs, evaluating end-user
-          requirements, custom designing solutions, troubleshooting for complex
-          information systems management
+        I am a dedicated Software Engineer with over 3 years of experience specializing in front-end development. My expertise lies in building dynamic and responsive web applications using technologies like React, Redux Toolkit, and TypeScript. I am skilled in creating intuitive user interfaces, optimizing performance, and ensuring cross-device compatibility with frameworks like Material-UI and Bootstrap. My professional journey includes significant contributions at companies like HashStudioz Technologies and Cognizant, where I've enhanced user experiences, resolved complex bugs, and collaborated effectively in Agile environments. I am passionate about writing clean, maintainable code and continuously improving my skills to deliver high-quality software solutions.
         </p>
       </div>
     </div>
