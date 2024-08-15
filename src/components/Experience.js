@@ -37,7 +37,7 @@ const Experience = () => {
       duration: "Sept 2023 - Present",
       description:
         "Implemented debouncing for search functionality, improved performance, resolved bugs, and developed an admin portal for hotel management.",
-      style: "shadow-blue-500",
+      style: "shadow-orange-500",
     },
     {
       id: 2,
@@ -46,7 +46,7 @@ const Experience = () => {
       duration: "July 2021 - June 2023",
       description:
         "Developed and optimized front-end components, collaborated in Agile teams, followed Test-Driven Development, and ensured 100% client satisfaction.",
-      style: "shadow-purple-500",
+      style: "shadow-blue-500",
     },
   ];
 
