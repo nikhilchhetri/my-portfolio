@@ -10,6 +10,7 @@ import reduxToolkit from "../assets/redux.png";
 import typescript from "../assets/typescript.png";
 import hashstudioz from "../assets/hashstudioz.png"; // Add logo images
 import cognizant from "../assets/cognizant.png";
+import infosys from "../assets/Infosys_logo.png";
 
 const Experience = () => {
   const techs = [
@@ -32,15 +33,24 @@ const Experience = () => {
   const companies = [
     {
       id: 1,
+      src: infosys,
+      name: "Infosys",
+      duration: "Jan 2025 - Present",
+      description:
+        "Enhancing and developing a retail application, implementing new features, fixing bugs, and improving UI/UX for better customer experience.",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 2,
       src: hashstudioz,
       name: "HashStudioz Technologies",
-      duration: "Sept 2023 - Present",
+      duration: "Sept 2023 - Dec 2024",
       description:
         "Implemented debouncing for search functionality, improved performance, resolved bugs, and developed an admin portal for hotel management.",
       style: "shadow-orange-500",
     },
     {
-      id: 2,
+      id: 3,
       src: cognizant,
       name: "Cognizant Technology Solutions",
       duration: "July 2021 - June 2023",
@@ -49,6 +59,7 @@ const Experience = () => {
       style: "shadow-blue-500",
     },
   ];
+  
 
   return (
     <div
